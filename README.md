@@ -1,9 +1,10 @@
-# Empolyee-Management-System
+# Empolyee Management System
 
-
+<!-- gif not showing due to large size
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/demo.gif" alt="Demo" width="800" />
+  <img src="https://github.com/deepakjaiswal2018/Empolyee-Management-System/demo.gif" alt="Demo" width="850" />
 </p>
+-->
 <!-- A Project which easily handle employee data with mysql database by performing CRUD Operation. -->
 
 ```
