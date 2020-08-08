@@ -1,4 +1,4 @@
-# Empolyee-Management-System
+# Empolyee Management System
 
 <!-- gif not showing due to large size
 <p align="center">
